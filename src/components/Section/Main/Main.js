@@ -4,7 +4,7 @@ import style from './Main.module.css';
 
 const MainSection = ({ title, children }) => {
   return (
-    <section className={style.section}>
+    <section className={style.main}>
       <h1 className={style.title}>{title}</h1>
       {children}
     </section>

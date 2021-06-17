@@ -1,0 +1,9 @@
+.list {
+  display: block;
+  margin: 0 auto;
+  list-style: none;
+}
+
+.statbox {
+    margin: 5px;
+}
