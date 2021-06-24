@@ -9,7 +9,7 @@ const MyGit = ({ title, button }) => {
       <h1 className={style.title}>{title}</h1>
       <Button
         className={style.button}
-        href="https://github.com/2F4S7/goit-react-hw-02-phonebook"
+        href="https://github.com/2F4S7/goit-react-hw-02-feedback"
         target="_blank"
         variant="dark"
         key={button}
